@@ -1,2 +1,2 @@
-# Blood-group-detection-using-fingerprints
-To develop a deep learning-based system that can automatically detect a person’s blood group using a fingerprint image and provide personalized nutrient and health recommendations  all through with a user-friendly Streamlit web interface.
+# fingerprint-based-blood-group-analysis
+This project introduces a deep learning-based system that detects a person's blood group from a fingerprint image using a non-invasive approach. It employs advanced image processing and neural networks to ensure accurate classification. Based on the detected blood group, the system also provides personalized health and nutrient recommendations. The entire solution is delivered through a user-friendly Streamlit web interface, making it simple and accessible for users.
